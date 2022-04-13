@@ -12,7 +12,9 @@
 </br>
 </br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=03mm007mm@gmail.com)](https://solved.ac/03mm007mm@gmail.com/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mm01000)](https://solved.ac/mm01000/)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={mm01000})](https://solved.ac/{mm01000})
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hong99cone&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hong99cone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
