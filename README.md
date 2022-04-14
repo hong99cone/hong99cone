@@ -8,6 +8,11 @@
 
 ![a084259ab8b84a956801331538253dfb](https://user-images.githubusercontent.com/99633277/163265253-f0c8db6b-cdd3-45a7-9e64-348c106d06f9.gif)
 
+</br>
+
+[Dev Blog is here!](https://hawaiian-pizza-it.tistory.com/)    
+[Portfolio is here!](#)
+
 
 </br>
 </br>
