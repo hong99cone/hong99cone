@@ -10,8 +10,7 @@
 
 </br>
 
-[Dev Blog is here!](https://hawaiian-pizza-it.tistory.com/)    
-[Portfolio is here!](https://sphenoid-tiglon-762.notion.site/in-deba7339d4494939a415e946cfcb8237)
+
 
 
 </br>
