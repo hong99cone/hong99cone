@@ -11,7 +11,7 @@
 </br>
 
 </br>
-**<a href="https://hawaiian-pizza-it.tistory.com/" target="_blank">Dev-blog</a>**
+<a href="https://hawaiian-pizza-it.tistory.com/" target="_blank">Dev-blog</a>
 </br>
 
 
